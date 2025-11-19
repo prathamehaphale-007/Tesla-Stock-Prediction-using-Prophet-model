@@ -26,9 +26,13 @@ Clean, structured notebook suitable for portfolio use
 Applicable to real-world financial prediction tasks
 
 📁 Project Structure
+
 │── Tesla Stock Price Prediction using Prophet model.ipynb
+
 │── data/
+
 │     └── tesla_stock.csv
+
 │── README.md
 
 🔧 Technologies Used
@@ -61,4 +65,4 @@ The model successfully captured underlying trends in Tesla's stock performance a
 
 🏁 Conclusion
 
-This project successfully applies Prophet to real stock market data and shows the full forecasting pipeline from raw input to meaningful predictions. It highlights both practical knowledge and strong analytical workflow, making it a solid addition to a data science portfolio.This project successfully applies Prophet to real stock market data and shows the full forecasting pipeline from raw input to meaningful predictions. It highlights both practical knowledge and strong analytical workflow, making it a solid addition to a data science portfolio.
+This project successfully applies Prophet to real stock market data and shows the full forecasting pipeline from raw input to meaningful predictions. It highlights both practical knowledge and strong analytical workflow, making it a solid addition to a data science portfolio.
